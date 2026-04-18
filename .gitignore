@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.npm-cache
+.npmrc
+.DS_Store
+.env
+
+# Ignore rendered output from Git but keep imported media in public/.
+out
